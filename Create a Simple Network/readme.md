@@ -1,6 +1,6 @@
 # Create a Simple Home Network
 
-## Project Overview
+## Lab Overview
 
 This lab demonstrates the setup of a basic home network using Cisco Packet Tracer, including wired and wireless connectivity between devices.
 
