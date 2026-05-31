@@ -14,7 +14,7 @@ This lab demonstrates the setup of a basic home network using Cisco Packet Trace
 
 ## Topology
 
-- ![alt text](topology.png)
+![alt text](topology.png)
 
 ## Key Concepts
 
