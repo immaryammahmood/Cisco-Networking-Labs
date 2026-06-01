@@ -29,10 +29,6 @@ This lab was completed as a self-practice activity in Cisco Packet Tracer to und
 10. Started the simulation and observed continuous ICMP traffic.
 11. Verified successful packet delivery and responses.
 
-## Topology
-
-![alt text](topology.png)
-
 ## Key Concepts
 
 * Protocol Data Units (PDUs)
